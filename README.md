@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOG11 a Junior Javascript & Backend Developer
+- 👋 Hi, I’m @TOG11 a Prof Javascript & Backend Developer
 - 👀 I’m interested in Always Learning New Things
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me Email: togi@tog1.me, Buisness Email: togar@togar.co (buisness for collaborations, personal for questions)
