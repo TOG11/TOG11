@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOG11 I am full-stack, and am currently the lead developer at FRGames
+- 👋 Hi, I’m @TOG11 I am full-stack, and am currently the owner of Togi Studios & FRGames
 - 👀 I’m interested in Always Learning New Things
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me Email: aiden@aidendes.com
